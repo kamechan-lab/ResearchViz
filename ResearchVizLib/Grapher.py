@@ -1,7 +1,7 @@
 import json
 import os
 import time
-from ResearchUtils.MathUtil import isFloat
+from MathUtil import isFloat
 from typing import List
 import matplotlib.pyplot as plt
 from matplotlib.figure import Figure
