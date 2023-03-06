@@ -14,8 +14,8 @@ import numpy as np
 import keyboard
 
 class Grapher:
-    menu_file = "C:\\Users\\genko\\Desktop\\PyCharm\\MentalApp\\ResearchUtils\\Graph\\config_menu.json"
-    save_file = "C:\\Users\\genko\\Desktop\\PyCharm\\MentalApp\\ResearchUtils\\Graph\\configs_savedata.json"
+    menu_file = ".\\config_menu.json"
+    save_file = ".\\configs_savedata.json"
     files = []
     data = []
     x_label = ""
