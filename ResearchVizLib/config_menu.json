@@ -1,0 +1,142 @@
+{
+    "legend_loc_index": 0,
+    "legend_anchor": [
+        0.024999999999999953,
+        1.0000000000000004
+    ],
+    "x_boundary": [
+        0.0,
+        30.0
+    ],
+    "y_boundary": [
+        450.0,
+        700.0
+    ],
+    "xtick_step": 5.0,
+    "ytick_step": 50.0,
+    "text_coords": [
+        [
+            0.05000000000000001,
+            0.8750000000000004
+        ],
+        [
+            0.4249999999999997,
+            0.8750000000000001
+        ]
+    ],
+    "files": [
+        "C:\\Users\\genko\\Documents\\Lab\\FDTD_data\\sio0_sio1_sio3_sio5_sio7_sio10_sio15_sio20_sio30\\spr_sio1_sio3_sio5_sio7_sio10_sio15_sio20_sio30.txt"
+    ],
+    "x_label": "$SiO_{2}$ thickness (nm)",
+    "y_label": "SPR peak wavelength (nm)",
+    "label_names": [
+        [
+            ""
+        ],
+        [
+            "w/ $SiO_{2}$ (5 nm)"
+        ],
+        [
+            "w/ $SiO_{2}$ (3 nm)"
+        ],
+        [
+            "w/ $SiO_{2}$ (5 nm)"
+        ]
+    ],
+    "line_markers": [
+        [
+            "o",
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            "s",
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            "D"
+        ],
+        [
+            "^"
+        ]
+    ],
+    "line_colors": [
+        [
+            "b"
+        ],
+        [
+            "tab:green"
+        ],
+        [
+            "b"
+        ],
+        [
+            "g"
+        ]
+    ],
+    "line_kinds": [
+        [
+            "-",
+            "--",
+            "-"
+        ],
+        [
+            "-",
+            "--",
+            "-"
+        ],
+        [
+            "-",
+            "-",
+            "-"
+        ],
+        [
+            "-"
+        ]
+    ],
+    "irregular_legends": false,
+    "irregular_line_names": [
+        "w/o",
+        "w/ $SiO_{2}$",
+        "w/ $SiO_{2}$, Ag"
+    ],
+    "irregular_line_markers": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "irregular_line_colors": [
+        "k",
+        "k",
+        "k"
+    ],
+    "irregular_line_kinds": [
+        "dotted",
+        "--",
+        "-"
+    ],
+    "contains_text": false,
+    "texts": [
+        "$\\lambda$ = 520 nm",
+        "$\\lambda$ = 580 nm"
+    ],
+    "text_fontsizes": [
+        15,
+        15
+    ],
+    "text_colors": [
+        "k",
+        "k"
+    ],
+    "xlabel_pad": 8,
+    "ylabel_pad": 8
+}
