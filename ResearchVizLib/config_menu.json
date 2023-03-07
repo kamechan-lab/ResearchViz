@@ -25,7 +25,7 @@
         ]
     ],
     "files": [
-        ".\\example.txt"
+        ".\\examples\\example1.txt"
     ],
     "x_label": "$SiO_{2}$ thickness (nm)",
     "y_label": "SPR peak wavelength (nm)",
