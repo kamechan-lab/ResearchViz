@@ -25,7 +25,7 @@
         ]
     ],
     "files": [
-        "C:\\Users\\genko\\Documents\\Lab\\FDTD_data\\sio0_sio1_sio3_sio5_sio7_sio10_sio15_sio20_sio30\\spr_sio1_sio3_sio5_sio7_sio10_sio15_sio20_sio30.txt"
+        ".\\example.txt"
     ],
     "x_label": "$SiO_{2}$ thickness (nm)",
     "y_label": "SPR peak wavelength (nm)",
